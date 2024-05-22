@@ -1,4 +1,4 @@
-# R.Goldberg_Portfolio
+Here are presented some data analysis projects of mine:
 
 
 | #    | Project                | Description                                                     | Stack                                                        |
