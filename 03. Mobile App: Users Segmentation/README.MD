@@ -38,6 +38,7 @@ Time spent in the App is considered to be the base for users segmentation.
 
 **Recommendations:**
 Taking into consideration that:
+
    a) "Tips_cklick" event seems to be one of the least frequent, however Conversion in the target event is significantly higher.\
    b)  "Search" event is in the top-3 most frequent events, however the Conversion in the target event is significantly lower.
 
