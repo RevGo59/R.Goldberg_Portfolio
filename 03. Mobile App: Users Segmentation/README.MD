@@ -3,7 +3,8 @@
 
 **Project Goal**:
 Identify User groups based on their behavior and state recommendations to ensure Conversion in the target event growth.
-**Conclusions:*
+
+**Conclusions:**
 1) Data is processed and explored:
    - No gaps detected;
    - No duplicates detected;
@@ -11,8 +12,7 @@ Identify User groups based on their behavior and state recommendations to ensure
    - Tables named properly;
    - Sources table & dataset log are merged;
    - Timeframe 7th October - 3rd November.
-    
-    
+        
 2) Evaluated metrics:
    - Retention rate;
    - Time spent in the App;
@@ -38,8 +38,8 @@ Time spent in the App is considered to be the base for users segmentation.
 
 **Recommendations:**
 Taking into consideration that:
-   1) "Tips_cklick" event seems to be one of the least frequent, however Conversion in the target event is significantly higher.\
-   2)  "Search" event is in the top-3 most frequent events, however the Conversion in the target event is significantly lower.
+   a) "Tips_cklick" event seems to be one of the least frequent, however Conversion in the target event is significantly higher.\
+   b)  "Search" event is in the top-3 most frequent events, however the Conversion in the target event is significantly lower.
 
 Following recommendations are proposed:
 1) It seems like users are not quite interested in the recommended ads. However, if they meet the eye, the Conversion in the target event is significantly higher.
