@@ -1,5 +1,6 @@
 **Context:**
 Saint-Petersburg Pediatric University provides hospitalization data for the period 2019-2023 to define factors that impact the speed of patient's admission to the hospital and run Ad-hoc study on information that may be useful.
+
 **Project goal:**
 Define factors that impact the lag between referral and admission dates.
 
