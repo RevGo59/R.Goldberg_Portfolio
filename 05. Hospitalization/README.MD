@@ -9,8 +9,8 @@ Define factors that impact the lag between referral and admission dates.
 3) Correlation between factors is calculated
 4) Statistical hypotheses tested:
   Mean lag between referral and admission dates 
-   -for region "Ленинградская область" and others are not equal Lag between referral and admission dates for patients from region "Ленинградская область" is lower.
-   -for billing party "ОМС" and others are not equal. Lag between referral and admission dates for the billing party "ОМС" is higher.
-   -for planned and emergency admissions are not equal. Lag between referral and admission dates for emergency admissions is lower.
-   -for department "Педиатрия 3" and others are not equal. Lag between referral and admission dates for department "Педиатрия 3" is lower.
-   -for diagnoses with the number of patients over 100 and others are statistically equal. Lag between referral and admission dates for diagnoses with a number of patients over 100 is equal to less popular diagnoses.
+   - for region "Ленинградская область" and others are not equal Lag between referral and admission dates for patients from region "Ленинградская область" is lower.
+   - for billing party "ОМС" and others are not equal. Lag between referral and admission dates for the billing party "ОМС" is higher.
+   - for planned and emergency admissions are not equal. Lag between referral and admission dates for emergency admissions is lower.
+   - for department "Педиатрия 3" and others are not equal. Lag between referral and admission dates for department "Педиатрия 3" is lower.
+   - for diagnoses with the number of patients over 100 and others are statistically equal. Lag between referral and admission dates for diagnoses with a number of patients over 100 is equal to less popular diagnoses.
