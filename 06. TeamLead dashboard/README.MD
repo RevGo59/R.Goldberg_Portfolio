@@ -1,8 +1,8 @@
 **Context:**
-Rosbank uses StarsMap tool to manage IT team members' skills. StarsMap has analytical tools, but they are excessive and not user-friendly.
+Rosbank uses StarsMap application to manage IT team members' skills. StarsMap has analytical tools, but they are excessive and not user-friendly.
 
 **Project goal:**
-Develop Rosbank IT Teamlead dashboard to analyse employees skills and involvement.
+Develop Rosbank IT TeamLead dashboard to analyse employees skills and involvement.
 
 **Results:**
 
